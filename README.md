@@ -1,10 +1,20 @@
-# NyayaAI Prototype
+# NyayaAI
 
-Figma Prototype Link:
-https://www.figma.com/proto/6VTfeEEZp70XBbW6mZsDTh/Untitled?node-id=1-2
+AI-powered legal assistance platform designed to simplify legal guidance and accessibility.
 
 ## Features
-- AI legal assistant UI
-- Case flow screens
-- User onboarding
-- Legal dashboard
+- AI legal chatbot
+- Case flow guidance
+- User-friendly interface
+- Legal resource navigation
+
+## Prototype
+https://www.figma.com/proto/6VTfeEEZp70XBbW6mZsDTh/Untitled?node-id=1-2
+
+## Tech Stack
+- Figma
+- UI/UX Design
+- AI Concept
+
+## Vision
+To make legal assistance more accessible and understandable for everyone.
